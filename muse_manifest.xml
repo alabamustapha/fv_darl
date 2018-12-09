@@ -1,0 +1,213 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://Ftp.breakthroughlive.info" ftp_rootfolder="/httpdocs" exportTarget="FTP" domain="breakthroughlive.info" resolutions="1x" timestamp="1542500408943">
+  <folder name="css">
+    <file name="site_global.css" crc="4064524327"/>
+    <file name="master_a-master.css" crc="326534960" ref="index"/>
+    <file name="master_b-master.css" crc="219596147" ref="agenda"/>
+    <file name="index.css" crc="166176576" ref="index"/>
+    <file name="agenda.css" crc="201872690" ref="agenda"/>
+    <file name="master_c-master.css" crc="4185060511" ref="pricing"/>
+    <file name="pricing.css" crc="4147757675" ref="pricing"/>
+    <file name="master_d-master.css" crc="3817090320" ref="speaker"/>
+    <file name="speaker.css" crc="262218173" ref="speaker"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:agenda:pricing:speaker"/>
+    <file name="museutils.js" crc="340535759" ref="index:agenda:pricing:speaker"/>
+    <file name="whatinput.js" crc="86476730" ref="index:agenda:pricing:speaker"/>
+    <file name="museconfig.js" crc="310584261" ref="index:agenda:pricing:speaker"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:agenda:pricing:speaker"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u4745.php" crc="4284420121" ref="index"/>
+    <file name="form-u6264.php" crc="512145339" ref="index"/>
+    <file name="form-u4812.php" crc="3965547960" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:agenda:pricing:speaker"/>
+    <file name="require.js" crc="7928878" ref="index:agenda:pricing:speaker"/>
+  </folder>
+  <folder name="images">
+    <file name="color.jpg" crc="385814060" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="b pink.png" crc="142133033" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="t pink.png" crc="4196255963" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="l pink.png" crc="4005726673" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comcast.jpg" crc="172846137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ball logo.jpg" crc="394871300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="in button.png" crc="115824450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="152400321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-book.svg" crc="3917863941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone book_poster_.png" crc="4189924772" ref="index"/>
+    <file name="globe.svg" crc="3971248291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="globe_poster_.png" crc="4058963690" ref="index"/>
+    <file name="join623x138.jpg" crc="3847807847" seo="true" ref="agenda">
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="bs logo 3.jpg" crc="4219151036" seo="true" ref="agenda:pricing:speaker">
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="day1-2.jpg" crc="3863263961" seo="true" ref="agenda">
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="day 1 agenda.jpg" crc="348788693" seo="true" ref="agenda">
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 495x129.png" crc="276547087" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 598x129.png" crc="3992286143" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 1093x131.png" crc="183701916" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 887x131.png" crc="4157795495" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 863x131.png" crc="395203247" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 626x128.png" crc="3892463610" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 2131x153.png" crc="3977604377" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 1858x131.png" crc="3891145850" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="pasted image 1597x156.png" crc="163975192" seo="true" ref="index:agenda:pricing:speaker">
+      <caption webpage="index" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="new 2nd .jpg" crc="4142140698" seo="true" ref="agenda">
+      <caption webpage="agenda" alt=""/>
+    </file>
+    <file name="quentin.jpg" crc="4208731895" seo="true" ref="speaker">
+      <caption webpage="speaker" alt=""/>
+    </file>
+    <file name="darlene.jpg" crc="3849617953" seo="true" ref="speaker">
+      <caption webpage="speaker" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="104824931" seo="true" mt="1542500226056" redirect="true"/>
+  <file name="agenda.html" crc="477739391" seo="true" mt="1542500287628" redirect="true"/>
+  <file name="pricing.html" crc="4155807948" seo="true" mt="1542500342803" redirect="true"/>
+  <file name="speaker.html" crc="525739168" seo="true" mt="1542500377310" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <characterStyle className="Controlers_caption" uid="U653"/>
+    <nestedListStyle className="nls-None" uid="U2708"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U68" master="U755">
+        <breakpoint uid="U2194" maxwidth="1152" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U55" uid="U755">
+        <breakpoint uid="U2197" maxwidth="1152" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U2190" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Agenda" filename="agenda.html" muse_href="page:U718" master="U3997">
+        <breakpoint uid="U2191" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="B-Master" master="U55" uid="U3997">
+        <breakpoint uid="U3998" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Pricing" filename="pricing.html" muse_href="page:U6721" master="U6536">
+        <breakpoint uid="U6711" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="C-Master " master="U55" uid="U6536">
+        <breakpoint uid="U6610" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Speaker" filename="speaker.html" muse_href="page:U7942" master="U7660">
+        <breakpoint uid="U7932" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="D-Master  " master="U55" uid="U7660">
+        <breakpoint uid="U7663" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
